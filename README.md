@@ -10,16 +10,16 @@ I'm a FullStack Web Developer with interests in Web Development. I enjoy collabo
 
 ## Interests
 
-I'm interested in:- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+I'm interested in:
+- Web Development 
+- Web Designer 
+- Logo Designer
+- other programming languages
 
 ## Main Projects
 
 Here are some projects I'm currently working on or have completed:
 
-1. [Project Name 1]: Brief description of the project.
-2. [Project Name 2]: Brief description of the project.
 
 ## GitHub Stats
 
@@ -28,9 +28,8 @@ Here are some projects I'm currently working on or have completed:
 
 You can contact me via:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Username]
+- Email: umam.fdev@gmail.com
+- Whatsapp: 62 858-5518-5068
 
 Thanks for stopping by! Feel free to reach out if you have any questions or want to collaborate.
 
