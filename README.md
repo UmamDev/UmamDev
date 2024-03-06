@@ -6,7 +6,7 @@ I'm a FullStack Web Developer with interests in Web Development. I enjoy collabo
 
 - 🌱 I'm currently learning NODEJS.
 - 💼 I work at HSD ITSP.
-- 📫 You can reach me <a href="https://porto.hsd.my.id">here!</a>
+- 📫 You can contact me [here!](#contact-me)
 
 ## Interests
 
@@ -30,7 +30,8 @@ Here are some projects I'm currently working on or have completed:
 You can contact me via:
 
 - Email: umam.fdev@gmail.com
-- Whatsapp: 62 858-5518-5068
+- Whatsapp: [6285855185068](https://api.whatsapp.com/send/?phone=6285855185068&text=)
+- Discord: [umamdev](https://discord.com/invite/KGgpfFvn)
 
 Thanks for stopping by! Feel free to reach out if you have any questions or want to collaborate.
 
