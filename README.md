@@ -20,9 +20,7 @@ I'm interested in:
 
 Here are some projects I'm currently working on or have completed:
 - [Tic Tac Toe Game](https://github.com/UmamDev/Tic-Tac-Toe-Game)
-
-
-## GitHub Stats
+- [WA Bot Evolve](https://github.com/UmamDev/WABE)
 
 
 ## Contact Me
